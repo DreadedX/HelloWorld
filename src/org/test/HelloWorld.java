@@ -2,6 +2,9 @@ package org.test;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("This is a test");
+		test();
+	}
+	public static void test() {
+		System.out.println("Hello World!");
 	}
 }
