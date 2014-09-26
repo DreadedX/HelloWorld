@@ -5,6 +5,6 @@ public class HelloWorld {
 		test();
 	}
 	public static void test() {
-		System.out.println("Hello World!");
+		System.out.println("Hello world, how are you today?");
 	}
 }
