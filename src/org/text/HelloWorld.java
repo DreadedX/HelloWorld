@@ -1,10 +1,10 @@
-package org.test;
+package org.text;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		test();
+		text();
 	}
-	public static void test() {
+	public static void text() {
 		System.out.println("Hello World!");
 	}
 }
