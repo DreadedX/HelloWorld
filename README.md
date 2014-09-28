@@ -1,4 +1,4 @@
-#HelloWorld
+#Hello World
 This a really basic java program. Just for messing around and trying out vim/eclim/tmux.
 
 ##Things I have learned so far
