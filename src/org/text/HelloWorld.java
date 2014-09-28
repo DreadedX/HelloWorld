@@ -2,9 +2,9 @@ package org.text;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		text();
+		hello();
 	}
-	public static void text() {
+	public static void hello() {
 		System.out.println("Hello world, how are you today?");
 	}
 }
