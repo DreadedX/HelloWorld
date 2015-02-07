@@ -1,0 +1,18 @@
+apply plugin: "java"
+apply plugin: "application"
+
+mainClassName = 'hello.HelloWorld'
+
+repositories {
+  mavenLocal()
+  mavenCentral()
+}
+
+dependencies {
+  compile "joda-time:joda-time:2.2"
+}
+
+jar {
+  baseName = "hello"
+  version = "0.1.0"
+}
